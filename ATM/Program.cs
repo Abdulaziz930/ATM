@@ -14,6 +14,7 @@ namespace ATM
 
             User user = new User();
             SaveFile saveFile = new SaveFile();
+            OTP otp = new OTP();
 
             byte counter = 1;
             RESTART:
@@ -110,20 +111,36 @@ namespace ATM
                             {
                                 try
                                 {
+                                    otp.SendOTP();
+                                    Console.WriteLine("\nOTP Şifrəsini Daxil Edin:");
+                                    string otp_password = Console.ReadLine();
+                                    otp.CheckOTP(otp_password);
+                                    
+                                    while (true)
+                                    {
+                                        try
+                                        {
+                                            
+                                            Console.WriteLine("\nYeni Dörd Rəqəmli Pin Kod Daxil Edin:");
+                                            int newpin = Int32.Parse(Console.ReadLine());
 
-                                    Console.WriteLine("\nYeni Dörd Rəqəmli Pin Kod Daxil Edin:");
-                                    int newpin = Int32.Parse(Console.ReadLine());
-
-                                    user.ResetPin(newpin);
-                                    saveFile.SaveOperation("Pin Kodun Dəyişdirilməsi Əməliyyatı");
+                                            user.ResetPin(newpin);
+                                            saveFile.SaveOperation("Pin Kodun Dəyişdirilməsi Əməliyyatı");
+                                            break;
+                                        }
+                                        catch (InsufficientNumber ex)
+                                        {
+                                            Console.WriteLine(ex.Message);
+                                        }
+                                        catch(NegativeNumberException ex)
+                                        {
+                                            Console.WriteLine(ex.Message);
+                                        }
+                                    }
                                     break;
+                                    
                                 }
-                                catch (InsufficientNumber ex)
-                                {
-                                    Console.WriteLine(ex.Message);
-
-                                }
-                                catch (NegativeNumberException ex)
+                                catch (WrongOTPException ex)
                                 {
                                     Console.WriteLine(ex.Message);
                                 }

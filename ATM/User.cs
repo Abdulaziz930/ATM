@@ -55,10 +55,11 @@ namespace ATM
         }
         public void ResetPin(int newPin)
         {
-            if(newPin.ToString().Length < 4)
+            if(newPin.ToString().Length != 4)
             {
                 throw new InsufficientNumber("Xahiş Edirik Dörd Rəqəmli Bir Pin Kod Daxil Edin", newPin);
-            }else if(newPin < 0)
+            }
+            if(newPin < 0)
             {
                 throw new NegativeNumberException("Pin Kod Mənfi Ədəd Ola Bilməz", newPin);
             }

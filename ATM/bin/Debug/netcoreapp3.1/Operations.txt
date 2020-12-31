@@ -29,3 +29,47 @@
 
 31-12-2020 12:41 -> Proqramı Sonlandırmaq Əməliyyatı
 
+31-12-2020 16:43 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:43 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 16:44 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:44 -> Balansı Yoxlamaq Əməliyyatı
+
+31-12-2020 16:44 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 16:45 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:46 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 16:48 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:48 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 16:49 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:49 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 16:50 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:51 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 16:52 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:53 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:54 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:55 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 16:56 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 17:09 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 17:11 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 17:11 -> Balansı Yoxlamaq Əməliyyatı
+
+31-12-2020 17:12 -> Proqramı Sonlandırmaq Əməliyyatı
+

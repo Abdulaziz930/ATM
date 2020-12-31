@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Proqramlaşdırma\\CodeAcademy\\C#\\ATM\\ATM.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Proqramlaşdırma\\CodeAcademy\\C#\\ATM\\ATM\\ATM.csproj",
       "projectName": "ATM",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Proqramlaşdırma\\CodeAcademy\\C#\\ATM\\ATM.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Proqramlaşdırma\\CodeAcademy\\C#\\ATM\\ATM\\ATM.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Proqramlaşdırma\\CodeAcademy\\C#\\ATM\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Proqramlaşdırma\\CodeAcademy\\C#\\ATM\\ATM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
