@@ -1,0 +1,31 @@
+
+31-12-2020 01:56 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 01:56 -> Balansı Yoxlamaq Əməliyyatı
+
+31-12-2020 01:56 -> Balansı Artırmaq Əməliyyatı,Artırılan Miqdar: 200 Manat
+
+31-12-2020 01:56 -> Pul Çəkmək Əməliyyatı,Çəkilən Miqdar: 400 Manat
+
+31-12-2020 01:56 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 02:20 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 02:20 -> Balansı Yoxlamaq Əməliyyatı
+
+31-12-2020 02:21 -> Pul Çəkmək Əməliyyatı,Çəkilən Miqdar: 456 Manat
+
+31-12-2020 02:22 -> Balansı Artırmaq Əməliyyatı,Artırılan Miqdar: 200 Manat
+
+31-12-2020 02:22 -> Balansı Yoxlamaq Əməliyyatı
+
+31-12-2020 02:22 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 02:32 -> Pin Kodun Dəyişdirilməsi Əməliyyatı
+
+31-12-2020 02:32 -> Balansı Yoxlamaq Əməliyyatı
+
+31-12-2020 02:32 -> Proqramı Sonlandırmaq Əməliyyatı
+
+31-12-2020 12:41 -> Proqramı Sonlandırmaq Əməliyyatı
+
